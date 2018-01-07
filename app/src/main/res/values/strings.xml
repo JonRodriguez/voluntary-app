@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">VoluntaryApp</string>
     <string name="profile" translatable="false">Profile</string>
+    <string name="chat">Chat</string>
+    <string name="news">News</string>
+    <string name="games">Games</string>
 </resources>
