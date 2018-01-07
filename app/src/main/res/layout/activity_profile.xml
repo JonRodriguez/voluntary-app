@@ -4,14 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.android.jonlau.voluntaryapp.MainActivity">
+    tools:context="com.android.jonlau.voluntaryapp.ProfileActivity">
 
-    <Button
-        android:id="@+id/profile_button_id"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/profile"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="0dp" />
-
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="283dp"
+        android:layout_height="188dp"
+        android:text="Estas en el Perfil"
+        tools:layout_editor_absoluteX="49dp"
+        tools:layout_editor_absoluteY="134dp" />
 </android.support.constraint.ConstraintLayout>

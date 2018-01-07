@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VoluntaryApp</string>
+    <string name="profile" translatable="false">Profile</string>
 </resources>
